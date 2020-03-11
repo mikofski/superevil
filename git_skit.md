@@ -1,12 +1,12 @@
-Ben Johnson
-Git Skit, Draft 1
+# Git Skit
+
+by Ben Johnson
 
 
-MARK calls BEN on his cell phone.
+_**MARK** calls **BEN** on his cell phone._
 
-		MARK
-	(to BEN)
-Hi Ben. Have you started working on our super-secret Python code to steal Colonel Sander’s recipe?
+**MARK** (to **BEN**):_
+>Hi Ben. Have you started working on our super-secret Python code to steal Colonel Sander’s recipe?
 
 		BEN
 Hi Mark. Yes I wrote a first draft in Python. I’ll email it to you so that you can add some diabolical code of your own.
