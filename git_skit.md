@@ -73,7 +73,7 @@ _IAN calls MARK._
 >Hello Mark. I emailed you version 4 of the super secret code. I added the edits that you requested.
 
 **MARK**
->Oh no… I just finished editing version 2. Ian can you also add my updates to the super secret code?
+>Oh no… I just finished editing version 2. Ian can you also add my updates to the super secret code? Thanks!  You're awesome.
 
 _IAN groans._
 
